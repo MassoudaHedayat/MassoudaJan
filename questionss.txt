@@ -1,0 +1,161 @@
+let quiz = [
+    {
+        q: "Each of data files has a ... that describe the way the data is stored in the file?",
+        options: ["File Structure", "Records", "Fields", "Database"],
+        ans: 0
+    },
+    {
+        q: "... is a set of processes and procedures that transform data into information and knowledge?",
+        options: ["information systems", "Knowledge system", "Database systems", "Computer system"],
+        ans: 0
+    },
+    {
+        q: "Which of the following isn't used in the storage phase of a computer-based information system?",
+        options: ["Magnetic", "Keyboard", "Diskette", "Hard disk"],
+        ans: 1
+    },
+    {
+        q: "In computer, testing of a program's component is called?",
+        options: ["pilot testing", "isolation testing", "system testing", "unit testing"],
+        ans: 3
+    },
+    {
+        q: "The main idea behind computer files is that it is convenient to?",
+        options: ["arrange them", "store information together", "create them", "access them"],
+        ans: 1
+    },
+    {
+        q: "Collection, organization, and maintenance of historical records of a program is known as?",
+        options:["Collection", "Libraries", "Dictionaries"," Documentation"],
+        ans: 3
+    },
+    {
+        q: "One approach to standardizing storing of data?",
+        options: ["MIS","structured programming","CODASYL specifications","All of the above"],
+        ans: 2
+    },
+    {
+        q:"A _____ Contains fields of data about one entity?",
+        options: [ "Record","File","Fields","Document"],
+        ans: 0
+    },
+    {
+        q:"Which is a valid keyword in java?",
+        options: ["interface","string","Float,"unsigned"],
+        ans: 0
+    },
+    {
+        q:"A computer program that contains expertise in a particular domain is called an?",
+        options:["intelligent planner","automatic processor","expert system","operational symbolizer"],
+        ans:0
+    },
+    
+//IT//
+{
+        q:"End-to-end connectivity is provided from host-to-host in?",
+        options:["Network layer","Session layer","Data link layer","Data link layer"],
+        ans:1
+},
+{
+        q:"Which of the following condition is used to transmit two packets over a medium at the same time?",
+        options:["Contention","Collision","Synchronous","Asynchronous"],
+        ans:1
+
+},
+{  
+        q:"An error-detecting code inserted as a field in a block of data to be transmitted is known as?",
+        options:["Error detecting code","Checksum","flow control","Frame check sequence"],
+        ans:3
+
+},
+{
+        q:"Computers in a LAN can be interconnected by radio and infrared technologies?",
+        options:["Wireless LANs","Network Topologies","Multiplexer","Modem"],
+        ans:0
+},
+{
+        q:"Which of the following divides the high speed signal into frequency bands?",
+        options:["t-switch","modem","frequency-division multiplexer","time-division multiplexer"],
+        ans:2
+},
+{
+        q:"A modem is connected in between a telephone line and a ...?",
+        options:["network","computer","communication adapter","serial port","serial port"],
+        ans:2
+},
+{
+        q:"A devices that links two homogeneous packet-broadcast local networks, is?",
+        options:["gateway","repeater","bridge","hub"],
+        ans:2
+},
+{
+        q:"End-to-end connectivity is provided from host-to-host in?",
+        options:["Network layer","Session layer","Data link layer","Transport layer"],
+        ans:3
+},
+{
+       q:"Sending a file from your personal computer's primary memory or disk to another computer is called?"
+       options:["uploading","downloading","logging on","hang on"],
+       ans:0
+},
+{
+       q:"The amount of uncertainty in a system of symbol is called?",
+       options:["Bandwidth","Entropy","loss","Quantum"],
+       ans:1
+},
+//software eng//
+{ 
+       q:"The most important feature of spiral model is?",
+       options:["requirement analysis","risk management","quality management","configuration management"],
+       ans:1
+},
+{
+       q: "...establishes information about when, why and by whom changes are made in a software?",
+       options:["Software Configuration Management","Change Control","Version Control","An Audit Trail"],
+       ans:3
+},
+{
+       q:"Testing of software with actual data and in actual environment is called?",
+       options:["Alpha testing","Beta testing","Regression testing","None of the above"],
+       ans:1
+
+},
+{
+       q:"Temporal cohesion means?",
+       options:["Coincidental cohesion","Cohesion between temporary variables","Cohesion between local variables","Cohesion with respect to time"],
+       ans: 0
+
+},
+{
+      q:"Which design metric is used to measure the compactness of the program in terms of lines of code?",
+      options:["Consistency","Conciseness","efficiency","Accuracy"],
+      ans :1
+},
+{
+      q:"In which one of the following, continuous process improvement is done?",
+      options:["ISO9001","RMMM","CMM","None of the above"],
+      ans :2
+},
+{
+      q:"The system specification is the first deliverable in the computer system engineering process which does not include?",
+      options:["Functional Description","Cost","Schedule","Technical Analysis"],
+      ans: 0
+},
+{
+      q:"Software Engineering is a discipline that integrates...for the development of computer software?",
+      options:["Process","Methods","Tools","All"],
+      ans:3
+},
+{
+      q:"Any error whose cause cannot be identified anywhere within the software system is called?",
+      options:["Internal error","External error","Inherent error","Logic error"],
+      ans:1
+},
+{
+      q:"‘Abstraction’ is...step of Attribute in a software design?",
+      options:["First","Final","Last","Middle"],
+      ans:0
+}
+
+
+];

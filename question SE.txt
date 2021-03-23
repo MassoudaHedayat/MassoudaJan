@@ -1,0 +1,30 @@
+1.The most important feature of spiral model is?
+ requirement analysis,risk management,quality management,configuration management
+ans:risk management
+2.______ establishes information about when, why and by whom changes are made in a software?
+ Software Configuration Management,Change Control,Version Control,An Audit Trail
+ans:An Audit Trail
+3.Testing of software with actual data and in actual environment is called?
+ Alpha testing	,Beta testing,Regression testing,None of the above
+ans:Beta testing
+4.Temporal cohesion means?
+ Coincidental cohesion,Cohesion between temporary variables,Cohesion between local variables,Cohesion with respect to time
+ans:Coincidental cohesion
+5.Which design metric is used to measure the compactness of the program in terms of lines of code?
+ Consistency,Conciseness.efficiency,Accuracy
+ans:Conciseness
+6.In which one of the following, continuous process improvement is done?
+ ISO9001,RMMM,CMM,None of the above
+ans:CMM
+7.The system specification is the first deliverable in the computer system engineering process which does not include?
+ Functional Description,Cost,Schedule,Technical Analysis
+ans:Functional Description
+8. Software Engineering is a discipline that integrates...for the development of computer software?
+ Process,Methods,Tools,All
+ans:All
+9.Any error whose cause cannot be identified anywhere within the software system is called?
+ Internal error,External error,Inherent error,Logic error
+10.‘Abstraction’ is...step of Attribute in a software design?
+ First,Final,Last,Middle
+
+

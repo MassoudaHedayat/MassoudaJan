@@ -1,0 +1,29 @@
+1.Each of data files has a _____ that describe the way the data is stored in the file?.
+ File structure,Records,Fields,Database
+ans:File structure
+2. ... is a set of processes and procedures that transform data into information and knowledge?
+ information system,Knowledge system,Database system,Computer system
+ans:information system
+3.Which of the following isn't used in the storage phase of a computer-based information system?
+ Magnetic,Keyboard,Diskette,Hard disk
+ans:Keyboard
+4.In computer, testing of a program's component is called?
+ pilot testing,isolation testing,system testing,unit testing
+ans:unit testing
+5.The main idea behind computer files is that it is convenient to?
+ arrange them,store information together,create them,access them
+ans:store information together
+6.Collection, organization, and maintenance of historical records of a program is known as?
+ Collection,Libraries,Dictionaries,Documentation
+ans:Documentation
+7.One approach to standardizing storing of data?
+ MIS,structured programming,CODASYL specifications,All of the above
+ans:CODASYL specifications
+8.A _____ Contains fields of data about one entity?
+ Record,File,Fields,Document
+ans:Record
+9.Which is a valid keyword in java?
+ interface,string,Float,unsigned
+ans:interface
+10.A computer program that contains expertise in a particular domain is called an?
+ intelligent planner,automatic processor,expert system,operational symbolizer

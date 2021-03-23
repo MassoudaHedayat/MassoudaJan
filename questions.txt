@@ -1,0 +1,31 @@
+1.End-to-end connectivity is provided from host-to-host in?
+ Network layer,Session layer,Data link layer, Data link layer
+ans:Session layer	
+2.Which of the following condition is used to transmit two packets over a medium at the same time?
+ Contention,Collision,Synchronous,Asynchronous
+ans:Collision
+3.An error-detecting code inserted as a field in a block of data to be transmitted is known as?
+ Frame check sequence,Error detecting code,Checksum,flow control
+ans:Frame check sequence
+4.Computers in a LAN can be interconnected by radio and infrared technologies.
+ Wireless LANs,Network Topologies,Multiplexer,Modem
+ans: Wireless LANs
+5.Which of the following divides the high speed signal into frequency bands?
+ t-switch,modem,frequency-division multiplexer,time-division multiplexer
+ans:frequency-division multiplexer
+6.A modem is connected in between a telephone line and a?
+ network,computer,communication adapter,serial port,serial port
+ans:communication adapter
+7.A devices that links two homogeneous packet-broadcast local networks, is?
+ gateway,repeater,bridge,hub
+ans:bridge
+8.End-to-end connectivity is provided from host-to-host in?
+ Network layer,Session layer,Data link layer,Transport layer
+ans:Transport layer
+9.Sending a file from your personal computer's primary memory or disk to another computer is calle
+ uploading,downloading,logging on,hang on
+ans:uploading
+10.The amount of uncertainty in a system of symbol is called?
+ Bandwidth,Entropy,loss,Quantum
+ans:Entropy
+ 
